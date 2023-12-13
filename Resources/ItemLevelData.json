@@ -1,0 +1,414 @@
+{
+  "ItemLevelData": [
+    {
+      "ID": 0,
+      "Attributes": {
+        "DurationByLevel": [
+          {
+            "Level": 1,
+            "Value": 30
+          },
+          {
+            "Level": 2,
+            "Value": 35
+          },
+          {
+            "Level": 3,
+            "Value": 40
+          },
+          {
+            "Level": 4,
+            "Value": 45
+          },
+          {
+            "Level": 5,
+            "Value": 50
+          },
+          {
+            "Level": 6,
+            "Value": 55
+          },
+          {
+            "Level": 7,
+            "Value": 60
+          },
+          {
+            "Level": 8,
+            "Value": 65
+          },
+          {
+            "Level": 9,
+            "Value": 70
+          },
+          {
+            "Level": 10,
+            "Value": 75
+          }
+        ],
+        "SpeedByLevel": null,
+        "CountByLevel": null
+      }
+    },
+    {
+      "ID": 1,
+      "Attributes": {
+        "DurationByLevel": [
+          {
+            "Level": 1,
+            "Value": 30
+          },
+          {
+            "Level": 2,
+            "Value": 35
+          },
+          {
+            "Level": 3,
+            "Value": 40
+          },
+          {
+            "Level": 4,
+            "Value": 45
+          },
+          {
+            "Level": 5,
+            "Value": 50
+          },
+          {
+            "Level": 6,
+            "Value": 55
+          },
+          {
+            "Level": 7,
+            "Value": 60
+          },
+          {
+            "Level": 8,
+            "Value": 65
+          },
+          {
+            "Level": 9,
+            "Value": 70
+          },
+          {
+            "Level": 10,
+            "Value": 75
+          }
+        ],
+        "SpeedByLevel": null,
+        "CountByLevel": null
+      }
+    },
+    {
+      "ID": 2,
+      "Attributes": {
+        "DurationByLevel": null,
+        "SpeedByLevel": [
+          {
+            "Level": 1,
+            "Value": 10
+          },
+          {
+            "Level": 2,
+            "Value": 8
+          },
+          {
+            "Level": 3,
+            "Value": 7
+          },
+          {
+            "Level": 4,
+            "Value": 6
+          },
+          {
+            "Level": 5,
+            "Value": 5
+          }
+        ],
+        "CountByLevel": null
+      }
+    },
+    {
+      "ID": 3,
+      "Attributes": {
+        "DurationByLevel": null,
+        "SpeedByLevel": null,
+        "CountByLevel": [
+          {
+            "Level": 1,
+            "Value": 15
+          },
+          {
+            "Level": 2,
+            "Value": 17
+          },
+          {
+            "Level": 3,
+            "Value": 19
+          },
+          {
+            "Level": 4,
+            "Value": 21
+          },
+          {
+            "Level": 5,
+            "Value": 23
+          },
+          {
+            "Level": 6,
+            "Value": 25
+          },
+          {
+            "Level": 7,
+            "Value": 27
+          },
+          {
+            "Level": 8,
+            "Value": 28
+          },
+          {
+            "Level": 9,
+            "Value": 29
+          },
+          {
+            "Level": 10,
+            "Value": 30
+          }
+        ]
+      }
+    },
+    {
+      "ID": 4,
+      "Attributes": {
+        "DurationByLevel": [
+          {
+            "Level": 1,
+            "Value": 70
+          },
+          {
+            "Level": 2,
+            "Value": 75
+          },
+          {
+            "Level": 3,
+            "Value": 80
+          },
+          {
+            "Level": 4,
+            "Value": 85
+          },
+          {
+            "Level": 5,
+            "Value": 90
+          },
+          {
+            "Level": 6,
+            "Value": 95
+          },
+          {
+            "Level": 7,
+            "Value": 100
+          },
+          {
+            "Level": 8,
+            "Value": 105
+          },
+          {
+            "Level": 9,
+            "Value": 110
+          },
+          {
+            "Level": 10,
+            "Value": 115
+          }
+        ],
+        "SpeedByLevel": null,
+        "CountByLevel": null
+      }
+    },
+    {
+      "ID": 5,
+      "Attributes": {
+        "DurationByLevel": null,
+        "SpeedByLevel": null,
+        "CountByLevel": [
+          {
+            "Level": 1,
+            "Value": 15
+          },
+          {
+            "Level": 2,
+            "Value": 17
+          },
+          {
+            "Level": 3,
+            "Value": 19
+          },
+          {
+            "Level": 4,
+            "Value": 21
+          },
+          {
+            "Level": 5,
+            "Value": 23
+          },
+          {
+            "Level": 6,
+            "Value": 25
+          },
+          {
+            "Level": 7,
+            "Value": 27
+          },
+          {
+            "Level": 8,
+            "Value": 28
+          },
+          {
+            "Level": 9,
+            "Value": 29
+          },
+          {
+            "Level": 10,
+            "Value": 30
+          }
+        ]
+      }
+    },
+    {
+      "ID": 6,
+      "Attributes": {
+        "DurationByLevel": [
+          {
+            "Level": 1,
+            "Value": 30
+          },
+          {
+            "Level": 2,
+            "Value": 35
+          },
+          {
+            "Level": 3,
+            "Value": 40
+          },
+          {
+            "Level": 4,
+            "Value": 45
+          },
+          {
+            "Level": 5,
+            "Value": 50
+          },
+          {
+            "Level": 6,
+            "Value": 55
+          }
+        ],
+        "SpeedByLevel": null,
+        "CountByLevel": [
+          {
+            "Level": 1,
+            "Value": 3
+          },
+          {
+            "Level": 2,
+            "Value": 4
+          },
+          {
+            "Level": 3,
+            "Value": 5
+          },
+          {
+            "Level": 4,
+            "Value": 6
+          },
+          {
+            "Level": 5,
+            "Value": 7
+          },
+          {
+            "Level": 6,
+            "Value": 8
+          }
+        ]
+      }
+    },
+    {
+      "ID": 7,
+      "Attributes": {
+        "DurationByLevel": null,
+        "SpeedByLevel": null,
+        "CountByLevel": [
+          {
+            "Level": 1,
+            "Value": 3
+          },
+          {
+            "Level": 2,
+            "Value": 4
+          },
+          {
+            "Level": 3,
+            "Value": 5
+          },
+          {
+            "Level": 4,
+            "Value": 6
+          },
+          {
+            "Level": 5,
+            "Value": 7
+          }
+        ]
+      }
+    },
+    {
+      "ID": 8,
+      "Attributes": {
+        "DurationByLevel": null,
+        "SpeedByLevel": [
+          {
+            "Level": 1,
+            "Value": 20
+          },
+          {
+            "Level": 2,
+            "Value": 18
+          },
+          {
+            "Level": 3,
+            "Value": 16
+          },
+          {
+            "Level": 4,
+            "Value": 14
+          },
+          {
+            "Level": 5,
+            "Value": 12
+          },
+          {
+            "Level": 6,
+            "Value": 10
+          },
+          {
+            "Level": 7,
+            "Value": 8
+          },
+          {
+            "Level": 8,
+            "Value": 7
+          },
+          {
+            "Level": 9,
+            "Value": 6
+          },
+          {
+            "Level": 10,
+            "Value": 5
+          }
+        ],
+        "CountByLevel": null
+      }
+    }
+  ]
+}
