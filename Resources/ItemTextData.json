@@ -1,0 +1,76 @@
+{
+  "ItemTextData": [
+    {
+      "ID": 0,
+      "Name_English": "FlowerBomb",
+      "Name_Korean": "꽃잎폭탄",
+      "Type": "duration",
+      "PS_Korean": "제 자리에서 일정 시간동안 회전하는 꽃잎 폭탄입니다.",
+      "PS_English": "Rotate in place for a certain period of time"
+    },
+    {
+      "ID": 1,
+      "Name_English": "FlowerShield",
+      "Name_Korean": "꽃잎방패",
+      "Type": "duration",
+      "PS_Korean": "레이디 버그를 감싸는 꽃잎방패가 생깁니다.",
+      "PS_English": "A petal shield that surrounds LadyBug."
+    },
+    {
+      "ID": 2,
+      "Name_English": "BeeMissile",
+      "Name_Korean": "벌 미사일",
+      "Type": "speed",
+      "PS_Korean": "큰 벌이 나와 직선으로만 이동하며 부딪히는 적을 없앱니다.",
+      "PS_English": "A big bee comes out and moves to forward."
+    },
+    {
+      "ID": 3,
+      "Name_English": "BabyBug",
+      "Name_Korean": "베이비 버그",
+      "Type": "count",
+      "PS_Korean": "레이디버그가 바라보는 방향으로 베이비 버그가 발사됩니다.",
+      "PS_English": "Launch baby bug in the direction you are facing."
+    },
+    {
+      "ID": 4,
+      "Name_English": "BeanWorm",
+      "Name_Korean": "콩벌레",
+      "Type": "duration",
+      "PS_Korean": "콩벌레가 나와서 돌아다닙니다.",
+      "PS_English": "Bean bugs come out and roam around."
+    },
+    {
+      "ID": 5,
+      "Name_English": "BadyBug2",
+      "Name_Korean": "베이비 버그2",
+      "Type": "count",
+      "PS_Korean": "베이비 버그가 시계방향으로 하나씩 생성됩니다.",
+      "PS_English": "Baby Bugs spawn clockwise."
+    },
+    {
+      "ID": 6,
+      "Name_English": "Cosmos",
+      "Name_Korean": "코스모스",
+      "Type": "duration count",
+      "PS_Korean": "코스모스가 생성되며, 앞뒤로 이동합니다.",
+      "PS_English": "Cosmos is created and moves forward and backward"
+    },
+    {
+      "ID": 7,
+      "Name_English": "Cosmos2",
+      "Name_Korean": "코스모스2",
+      "Type": "count",
+      "PS_Korean": "코스모스들이 생성개수만큼 앞뒤로 이동합니다.",
+      "PS_English": "Cosmos are launched in a row."
+    },
+    {
+      "ID": 8,
+      "Name_English": "Doppelganger",
+      "Name_Korean": "분신",
+      "Type": "speed",
+      "PS_Korean": "분신이 생성되어 앞으로 이동하며 적을 유인합니다.",
+      "PS_English": "A clone moves forward, attracting enemies."
+    }
+  ]
+}
